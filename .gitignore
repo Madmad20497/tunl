@@ -1,3 +1,6 @@
-.env
-/target
+
+/pkg
 /node_modules
+/dist
+/build
+target
